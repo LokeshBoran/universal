@@ -494,9 +494,9 @@ angular2-template-loader@0.6.0:
   dependencies:
     loader-utils "^0.2.15"
 
-angulartics2@~5.1.2:
-  version "5.1.2"
-  resolved "https://registry.yarnpkg.com/angulartics2/-/angulartics2-5.1.2.tgz#c298d1af4ba1b2e075beb1030bf82253740cf67b"
+angulartics2@~5.3.0:
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/angulartics2/-/angulartics2-5.3.0.tgz#edee3ba4f69a123e71a5423c7ff661e7de79a13c"
   dependencies:
     tslib "^1.7.1"
 
